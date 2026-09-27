@@ -61,6 +61,4 @@ Runs both locally and in Google Colab.
   too few images or the classes are too imbalanced (a common failure mode
   with live scraping) — re-run the download cell if that happens.
 
-## License
 
-Add a license of your choice (e.g. MIT) if you plan to share this publicly.
